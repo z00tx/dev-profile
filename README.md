@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:enes.kisa@gmail.com">Contact</a> • 
-  <a href=https://devz00t.netlify.app">Portfolio</a> • 
+  <a href=https://devz00t.netlify.app>Portfolio</a> • 
 </p>
 
 ---
