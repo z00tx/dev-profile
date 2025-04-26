@@ -88,7 +88,7 @@ I offer **contract-based services** for:
 
 📨 Email: ` enes.kisa42452@gmail.com`  
 💬 Discord: `chrolloyrx(z00t)`  
-🌐 Portfolio: [yourwebsite.dev](https://devz00t.netlify.app)
+🌐 Portfolio: (https://devz00t.netlify.app)
 
 ---
 
